@@ -27,7 +27,7 @@
 
 ### Overview
 
-**Dark Mode** is a lightweight, intelligent dark theme engine that dynamically adjusts text and background colors based on visual luminance. It ensures high contrast and strong accessibility without relying on hardcoded color overrides.
+**Dark Mode** is a lightweight, intelligent dark theme engine that dynamically adjusts text and background colors based on visual luminance, ensuring high contrast and strong accessibility without relying on hardcoded color overrides. It uses `MutationObserver` to efficiently detect and adapt to dynamic content changes in real time.
 
 ---
 
