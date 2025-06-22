@@ -33,22 +33,22 @@
 
 ### Features
 
-- **Real-Time Adaptation** 
+- **Real-Time Adaptation**  
   Automatically detects and transforms overly bright or low-contrast elements, including dynamic content as it loads.
 
-- **Non-Invasive Styling** 
+- **Non-Invasive Styling**  
   Applies adjustments only when necessary. Original styles are preserved unless contrast requires an override.
 
-- **Performance-Optimized** 
+- **Performance-Optimized**  
   Uses `MutationObserver` with throttled updates for fast, efficient behavior.
 
-- **Fully Configurable** 
+- **Fully Configurable**  
   Luminance thresholds and replacement colors can be modified through a simple config object.
 
-- **Cross-Browser Compatible** 
+- **Cross-Browser Compatible**  
   Works on Chrome, Brave, Edge, Firefox, and other Chromium-based browsers.
 
-- **Zero Dependencies** 
+- **Zero Dependencies**  
   Pure vanilla JavaScript with no frameworks, libraries, or external stylesheets.
 
 ---
