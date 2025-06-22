@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/sil-dark-mode/">
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/sal-dark-mode/">
     <img 
       alt="Dark Mode Icon"
       src="Source/Icons/icon96.png"
@@ -9,12 +9,12 @@
 
 <p align="center">
   <strong>
-    Dark Mode for Firefox – A Smart, Intelligent, and Lightweight Add-on
+    Dark Mode for Firefox – A Smart, Adaptive, and Lightweight Add-on
   </strong>
 </p>
 
 <p align="center">
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/sil-dark-mode/">
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/sal-dark-mode/">
     <img 
       alt="Firefox Badge" 
       src="https://img.shields.io/badge/Firefox-%231c1c1c?style=for-the-badge&logo=firefoxbrowser&logoColor=%23ffffff&logoSize=auto"
@@ -27,7 +27,7 @@
 
 ### Overview
 
-**Dark Mode** is a smart, intelligent, lightweight dark theme engine that adjusts text and background colors based on visual luminance to ensure high contrast and accessibility. It uses `MutationObserver` to efficiently detect and adapt to dynamic content changes.
+**Dark Mode** is a smart, adaptive, lightweight dark theme engine that adjusts text and background colors based on visual luminance to ensure high contrast and accessibility. It uses `MutationObserver` to efficiently detect and adapt to dynamic content changes.
 
 ---
 
